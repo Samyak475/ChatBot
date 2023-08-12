@@ -2,11 +2,10 @@
 Chat Box
 
 <h5>
-This Application allow us to chat with an AI and also help Us in solving many Problem 
+This Web Application is a Chat bot, where User can interact with the ChatBot similar to Chat gpt.
 <h5>
 The Key Implementation are
 <Li>Intergrated a Open AI Api to generate the response from the ChatBot
-
-<li>The chatbot is implemented using HTML, CSS, and JavaScript.
+<li>The Chat bot is implemented using HTML, CSS, and JavaScript.
 
  
